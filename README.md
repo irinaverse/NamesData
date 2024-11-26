@@ -4,6 +4,6 @@
 - ABC dictionary into pandas dataframe
 - transiting through dataframes
 - the mystery and history of the letter $X$
-- ABC bar graphs
+- bar graphs
 
 <p align = "right"> Click the file name above to read the document. </p>
