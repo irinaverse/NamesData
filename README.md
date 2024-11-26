@@ -1,5 +1,4 @@
-## Working with Data
-- "Names, X to II" is dedicated to my grandmother, Irinka Nedyalkova
+## Working with Names Data
 - it turns out we give life to people, commitments and ideas
 - separate datasets for male names and female names
 - ABC dictionary into pandas dataframe
